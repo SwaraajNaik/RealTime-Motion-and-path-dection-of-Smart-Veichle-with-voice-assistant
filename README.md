@@ -16,10 +16,13 @@
   - Step-2 Once open, run all the cells from the beginning.
 
   - Step-3 Finally run the **result** segment to see the results of both encoding the message in the audio file and extracting the message from the audio file.
-
+# ** --------------------------------------------------------------------------------------**
 - ![Screenshot 2022-04-11 013944](https://user-images.githubusercontent.com/40821800/162637941-5a40c02d-e61b-4114-aeba-ba9c03b74b51.png)
 
 - ![Screenshot 2022-04-11 014028](https://user-images.githubusercontent.com/40821800/162637943-f01cd229-7a58-4146-84a9-09db51163d3d.png)
+
+- ![Screenshot 2022-04-11 014449](https://user-images.githubusercontent.com/40821800/162638066-6678f898-90ec-4497-8178-0fc6c92f0800.png)
+
 
 - ![Screenshot 2022-04-11 014048](https://user-images.githubusercontent.com/40821800/162637945-02f739fd-8387-44a5-bb44-ed2d9f8b174f.png)
 
