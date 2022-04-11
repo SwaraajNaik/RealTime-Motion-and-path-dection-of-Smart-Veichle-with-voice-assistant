@@ -1,4 +1,4 @@
-# RealTime-Motion-and-path-dection-of-Smart-Veichle-with-voice-assistant
+# RealTime-Motion-and-path-detection-of-Smart-Veichle-with-voice-assistant
 
 # Pre-requisite
 
